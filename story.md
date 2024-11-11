@@ -1,4 +1,4 @@
-### Git Love-Stor
+### Git Love-Story
 
 At the trendy new tech cafe, “GitBean,” where the baristas wore shirts saying “Caffeinate, Commit, Repeat,” Linus sat down with his laptop and a frothy cappuccino. The specialty drink menu boasted items like the “Merge Macchiato” and the “Rebase Ristretto”, and Linus had just ordered the “Hotfix Espresso,” known to keep you wired for unexpected sprints.
 
